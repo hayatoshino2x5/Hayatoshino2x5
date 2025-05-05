@@ -98,13 +98,27 @@
 
 ## 🔥 Featured Projects
 
-<div align="center">
+<details open> 
+  <summary><h2>📘 Featured Projects</h2></summary>
+  <p align="left">
+    <a href="https://github.com/yeongpin/cursor-free-vip">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeongpin&repo=cursor-free-vip&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="cursor-free-vip">
+    </a>
+    <a href="https://github.com/yeongpin/VisualPlayer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeongpin&repo=VisualPlayer&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="VisualPlayer">
+    </a>
+    <a href="https://github.com/yeongpin/LanLocalChat">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeongpin&repo=LanLocalChat&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="LanLocalChat">
+    </a>
+    <a href="https://github.com/yeongpin/image-compression-tool">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeongpin&repo=image-compression-tool&bg_color=000000&title_color=94b4a4&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_owner=true&description_lines_count=2" alt="image-compression-tool">
+    </a>
+  </p>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=your-repo-name&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true)](https://github.com/hayato-shino05/your-repo-name)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=your-repo-name-2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true)](https://github.com/hayato-shino05/your-repo-name-2)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hayato-shino05&repo=your-repo-name-3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=00000000&hide_border=true)](https://github.com/hayato-shino05/your-repo-name-3)
-
-</div>
+  <a href="https://github.com/yeongpin?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-000000?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</details>
 
 ### Project Descriptions
 1. **[Project Name](link-to-repo)** - A comprehensive web application built with Node.js and React that enables users to [main functionality]. Features include [key feature 1], [key feature 2], and [key feature 3].
