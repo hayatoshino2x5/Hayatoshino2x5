@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,13,20,30,45&height=300&section=header&text=篠原%20颯斗&fontSize=80&animation=fadeIn&fontAlignY=38&desc=フルスタック開発者%20|%20Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,26,34,50&height=300&section=header&text=篠原%20颯斗&fontSize=80&animation=fadeIn&fontAlignY=38&desc=フルスタック開発者%20|%20Full%20Stack%20Developer&descAlignY=51&descAlign=50"/>
 </div>
 
 <div align="center">
